@@ -1,5 +1,8 @@
-### Hi there 👋
+✨✨ FullStack in progress... ✨✨
 
+- 🌱 I’m currently studying FullStack Development at Nucba Academy and Software Development at UADE University
+- 🔭 I’m currently working on expanding my knowledge and trying to practice as much as posible
+- 📫 How to reach me: LinkedIn -> https://www.linkedin.com/in/luciacastro2108/
 <!--
 **lucastro95/lucastro95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
